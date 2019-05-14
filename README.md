@@ -22,7 +22,7 @@ Download latest release from https://github.com/gosweetspot/OpenCartRestApiV2/re
 1. Navigate to Extensions > Extension Installer inside your OpenCart admin area.
 2. Select the zip file that contains this readme (no need to unzip) and upload it.
 3. Go to your admin area in Extensions->Product Feeds and enable your GSS API extension
-   You have to fill the security key field. We recommend you use a strong random password of at least 16 characters (eg. JRALdQMbrtx4cWr2y)
+   You have to fill the security key field. We recommend you use a strong random password of at least 16 characters. Only alphanumeric characters are supported (letters and numbers).
    This key is then required on GoSweetSpot configuration.
 
 If you have any trouble with the first two steps above you can follow the steps below and then continue with step three.
